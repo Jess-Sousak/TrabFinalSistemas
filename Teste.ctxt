@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Teste
+comment0.text=\ Desenvolvedores\:\ Bruno\ Moroni,\ Everardo\ Antonio,\ Jessica\ de\ Freitas\ e\ Luiz\ Fernando\r\n\ Objetivo\:\ \ apresentar\ um\ projeto\ de\ c\u00F3digo\ que\ atenda\ as\ necessidades\ de\ uma\ loja\ virtual\ \r\n\ de\ produtos\ diversos.\ O\ c\u00F3digo\ se\ baseia\ nas\ demandas\ do\ dia-a-dia\ de\ um\ com\u00E9rcio\ que\ precisa\r\n\ ter\ controle\ sobre\ o\ estoque\ dos\ seus\ produtos,\ o\ tipo\ de\ cada\ e\ seu\ pre\u00E7o,\ al\u00E9m\ disso\ \u00E9\ \r\n\ necess\u00E1rio\ acompanhar\ da\ melhor\ maneira\ poss\u00EDvel\ as\ suas\ vendas,\ observando\ qual\ foi\ o\ vendedor\ \r\n\ que\ executou\ a\ venda\ e\ quem\ \u00E9\ o\ cliente,\ e\ tamb\u00E9m\ \u00E9\ preciso\ identific\u00E1-los.\ Ao\ final\ das\ opera\u00E7\u00F5es\r\n\ de\ compra\ e\ venda\ se\ torna\ fundamental\ retornar\ o\ saldo\ em\ caixa\ e\ de\ estoque,\ a\ fim\ de\ observar\ \r\n\ se\ h\u00E1\ lucro\ ou\ n\u00E3o\ e\ a\ disponibilidade\ dos\ produtos.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

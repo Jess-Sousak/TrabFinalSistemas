@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vendedor
+comment1.params=conexao
+comment1.target=Vendedor(java.sql.Connection)
+comment2.params=id\ nome\ faturamento\ email
+comment2.target=boolean\ adicionarVendedor(int,\ java.lang.String,\ double,\ java.lang.String)
+comment3.params=id
+comment3.target=boolean\ DeletarVendedorId(int)
+comment4.params=email
+comment4.target=boolean\ ConsultarEmaildoVendedor(java.lang.String)
+numComments=5

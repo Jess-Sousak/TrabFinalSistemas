@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=conexao
+comment1.target=Cliente(java.sql.Connection)
+comment2.params=id\ nome\ cpf\ endereco\ tipopagamento
+comment2.target=boolean\ adicionarNovoCliente(int,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=id
+comment3.target=boolean\ consultaClienteId(int)
+comment4.params=idcliente\ idproduto
+comment4.target=boolean\ Efetuarcompra(int,\ int)
+comment5.params=id
+comment5.target=boolean\ DeletarClienteId(int)
+numComments=6
